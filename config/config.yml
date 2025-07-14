@@ -2,5 +2,5 @@
 # credentials_json: ./credentials/key.json
 # region: us-central1
 # model_name: gemini-1.5-pro-002
-gemini_api_key: AIzaSyA7Jpo9RHx8W_wT1Wwsrv8YnYM8XYb6Apo
+gemini_api_key: GEMINI_API_KEY
 model_name: gemini-2.0-flash-001
